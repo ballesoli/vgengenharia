@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ballesoli.github.io/vgengenharia/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/hero-cobertura-metalica.webp</image:loc>
+      <image:title>Cobertura metálica industrial executada pela VG Engenharia</image:title>
+      <image:caption>Treliça de cobertura metálica industrial em Ribeirão Preto</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/servico-coberturas-metalicas.webp</image:loc>
+      <image:title>Cobertura metálica de galpão</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/servico-estruturas-metalicas.webp</image:loc>
+      <image:title>Estrutura metálica de galpão industrial em montagem</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/servico-mezaninos-metalicos.webp</image:loc>
+      <image:title>Mezanino metálico com escada e guarda-corpo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/servico-portoes-industriais.webp</image:loc>
+      <image:title>Portão industrial basculante de aço</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/servico-manutencao-industrial.webp</image:loc>
+      <image:title>Treliças metálicas de cobertura em montagem</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/galeria-guarda-corpos.webp</image:loc>
+      <image:title>Guarda-corpos e corrimãos metálicos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/galeria-portao-deslizante.webp</image:loc>
+      <image:title>Portão deslizante de aço industrial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ballesoli.github.io/vgengenharia/assets/galeria-telhado-policarbonato.webp</image:loc>
+      <image:title>Telhado de policarbonato azul com estrutura metálica</image:title>
+    </image:image>
+  </url>
+</urlset>

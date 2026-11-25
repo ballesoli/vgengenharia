@@ -1,0 +1,11 @@
+# robots.txt - VG Engenharia e Soluções Metálicas
+User-agent: *
+Allow: /
+Disallow:
+
+# Permitir indexação de imagens
+User-agent: Googlebot-Image
+Allow: /
+
+# Sitemap
+Sitemap: https://ballesoli.github.io/vgengenharia/sitemap.xml
